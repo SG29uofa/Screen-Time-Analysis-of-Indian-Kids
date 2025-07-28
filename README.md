@@ -30,7 +30,7 @@ Null Hypothesis (H₀): Boys and girls have the same average screen time
 Alternative Hypothesis (Ha): Boys and girls have different average screen time
 
 Why did we use a t-test?
-•	We used a t-test because:
+  We used a t-test because:
 •	The sample size is relatively small
 •	The population standard deviation is unknown
 •	We are comparing the means of two independent groups (boys vs girls)
